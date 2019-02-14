@@ -1,6 +1,6 @@
-===================================
- NarrowBand  |build-status| |docs|
-===================================
+=================================================================
+ NarrowBand  |docs| |made-with-python| |licensebuttons by-nc-sa|
+=================================================================
 
 Overview
 ========
@@ -16,9 +16,6 @@ If you want more freedom, feel free to check out the NarrowbandCore class.
 
 Documentation
 =============
-For API documentation, usage and examples see files in the "documentation"
-directory.  The ".rst" files can be read in any text editor or being converted to
-HTML or PDF using Sphinx_. An HTML version is online at
 http://narrowband.readthedocs.io/
 
 
@@ -30,3 +27,12 @@ Installation
 License
 ========
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
+
+.. |docs| image:: https://readthedocs.org/projects/narrowband/badge/?version=latest
+   :target: http://narrowband.readthedocs.io/
+   :alt: Documentation
+.. |made-with-python| image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
+   :target: https://www.python.org/
+.. |licensebuttons by-nc-sa| image:: https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png
+   :target: https://creativecommons.org/licenses/by-nc-sa/4.0
